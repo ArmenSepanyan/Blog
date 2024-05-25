@@ -1,0 +1,29 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.btn{
+  border: none;
+  background-color: transparent;
+}
+.menu{
+  border: 1px black solid;
+}
+
+.slide {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: center;
+  height: 200px;
+  width: 80%;
+}
+
+.list{
+  border: 1px black solid;
+  width: 20%;
+  margin-top: 80px;
+  height: 300px;
+
+}
