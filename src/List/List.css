@@ -1,0 +1,14 @@
+.list{
+    border: 1px black solid;
+    width: 20%;
+    margin-top: 80px;
+    height: 300px;
+    margin-left: 100px;
+  
+  }
+
+  li{
+    border: 1px black solid;
+    margin: 10px;
+    overflow: hidden;
+  }

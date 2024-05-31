@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    border: 1px black solid;
+  }
+  .menu{
+    border: 1px black solid;
+  }
+  .btn{
+    border: none;
+    background-color: transparent;
+  }
+  

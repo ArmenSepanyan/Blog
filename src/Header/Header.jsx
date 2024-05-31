@@ -1,7 +1,8 @@
+import './Header.css'
 const Header = () =>{
     return(
         <div className="header">
-            <h2>LOGO</h2>
+           <h2>LOGO</h2>
             <div className="menu">
                 <button className="btn">Home</button>
                 <button className="btn">Users</button>

@@ -1,3 +1,4 @@
+import './List.css'
 const List = () =>{
     return (
        <div className="list">

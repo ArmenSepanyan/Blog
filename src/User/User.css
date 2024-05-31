@@ -1,0 +1,13 @@
+.user{
+    display: flex;
+    flex-direction: flex-start;
+    justify-content: space-between;
+    border: 1px black solid;
+    width: 40%;
+    margin-top: 80px; 
+}
+
+.img{
+    max-width: 50%;
+    max-height: 60%;
+}
